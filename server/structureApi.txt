@@ -1,0 +1,12 @@
+request to create command
+{
+    "user_id": 1,
+    "table_id": 1,
+    "total": 852,
+    "menu_choices": [
+        {"menu_id": 1, "choices": "no sucre"},
+        {"menu_id": 2, "choices": "without fromaj"},
+        {"menu_id": 3, "choices": "extra cheese"}
+    ]
+}
+
